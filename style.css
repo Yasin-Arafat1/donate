@@ -1,0 +1,168 @@
+.banner{
+    background-image: url(./images/donation13.jpg);
+    background-size: cover;
+    height: 550px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.item{
+    color: aliceblue;
+    width: 500px;
+    text-align: center; 
+}
+
+.item h1{
+    font-size: 50px;
+}
+.item button{
+    color: white;
+    background-color: crimson;
+    font-size: 15px;
+    height: 40px;
+    margin: 0px 200px;
+    margin-top: 30px;
+    border-radius: 5px;
+    border: none;
+    transition: 1s;
+}
+.item button:hover{
+    background-color: rgb(231, 77, 108);
+}
+.donation{
+    width: 400px;
+    text-align: center;
+    margin: 0px auto;
+    margin-top: 50px;
+}
+
+.btn-content{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.donate{
+    background-color: rgb(196, 192, 192);
+    border: 3px solid rgb(196, 192, 192);
+    color: gray;
+    font-size: 25px;
+    font-weight: 500;
+    padding: 30px;
+    margin: 0px 10px;
+    border-radius: 5px;
+    transition: 1s;
+}
+.donate:hover{
+    background-color: rgb(252, 178, 193);
+    color: crimson;
+    border: 3px solid crimson;
+}
+
+.others{
+    text-align: center;
+}
+.others h1{
+    margin-top: 30px;
+    color: rgb(201, 199, 199);
+}
+.others button{
+    background-color: crimson;
+    color: white;
+    font-size: 15px;
+    height: 40px;
+    margin: 0px 200px;
+    border-radius: 5px;
+    border: none;
+    transition: 1s;
+}
+.others button:hover{
+    background-color: rgb(224, 90, 119);
+}
+.under-line{
+    width: 400px;
+    border: 1px solid rgb(201, 199, 199);
+    margin-top: 0px;
+    margin-bottom: 30px;
+}
+
+.our-plan{
+    width: 500px;
+    margin: 0px auto;
+    margin-top: 50px;
+}
+.our-plan h1{
+    text-align: center;
+}
+
+.destination{
+    display: flex;
+    gap: 10px;
+    margin: 100px 150px;
+}
+
+.destination-1{
+    background-color: rgb(245, 172, 187);
+}
+.destination-2{
+    background-color: rgb(240, 202, 210);
+}
+.destination-3{
+    background-color: rgb(228, 210, 214);
+}
+.des-item{
+    border-radius: 3px;
+    padding: 30px;
+}
+
+.how-to-donate{
+    display: flex;
+    margin: 150px;
+    gap: 50px;
+
+}
+.your-donation{
+    width: 700px;
+}
+.your-donation button{
+    background-color: crimson;
+    color: white;
+    font-size: 15px;
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    transition: 1s;
+}
+
+.image{
+    width: 500px;
+    height: 400px;
+}
+.update{
+    width: 600px;
+    text-align: center;
+    margin: 0px auto;
+}
+.subscribe{
+    display: flex;
+    background-color: rgb(238, 179, 191);
+    width: 700px;
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+    margin: 0px auto;
+    border: none;
+}
+.subscribe button{
+    background-color: crimson;
+}
+.subscribe input{
+    background-color: rgb(199, 195, 196);
+}
+
+.be-h{
+    margin:30px;
+    text-align: center;
+    color: white;
+    background-color: black;
+    border: 50px solid black;
+}
